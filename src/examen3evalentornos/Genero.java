@@ -14,8 +14,6 @@ enum Genero {
 
   drama,
 
-  drama,
-
   horror,
 
   musical,
@@ -24,11 +22,6 @@ enum Genero {
 
   cienciaFiccion;
 
-    /**
-   * 
-   * @element-type Multimedia
-   */
-  public Vector  clasifica;
     /**
    * 
    * @element-type Multimedia
