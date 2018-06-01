@@ -16,6 +16,8 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.Println("Esto esta escrito desde GitHub");
+        System.out.Println("Esto tambien");
     }
     
 }
